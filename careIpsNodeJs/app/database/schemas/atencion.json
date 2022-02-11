@@ -1,0 +1,26 @@
+{
+  "allowed": [
+    "id",
+    "date",
+    "initialHour",
+    "finalHour",
+    "patientId",
+    "patientSign",
+    "sign",
+    "observation",
+    "lat",
+    "lng",
+    "userIdCreatedAt",
+    "action"
+  ],
+  "required": {
+    "date": "Usuario",
+    "initialHour": "initialHour",
+    "finalHour": "finalHour",
+    "patientId": "patientId",
+    "patientSign": "patientSign",
+    "observation": "observation",
+    "userIdCreatedAt": "userIdCreatedAt",
+    "action": "acción"
+  }
+}

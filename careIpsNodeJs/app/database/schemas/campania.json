@@ -1,0 +1,23 @@
+{
+    "allowed": [
+      "nombreCampania",
+      "candidatoApellido",
+      "idPartido",
+      "idCircuito",
+      "idPostulacion",
+      "candidatoNombre",
+      "cedula",
+      "userIdCreatedAt",
+      "userIdUpdatedAt"
+    ],
+    "required": {
+      "nombreCampania": "nombreCampania",
+      "candidatoApellido": "candidatoApellido",
+      "idPartido": "idPartido",
+      "idCircuito": "idCircuito",
+      "idPostulacion": "idPostulacion",
+      "candidatoNombre": "candidatoNombre",
+      "cedula": "cedula",
+      "userIdCreatedAt": "userIdCreatedAt"
+    }
+  }

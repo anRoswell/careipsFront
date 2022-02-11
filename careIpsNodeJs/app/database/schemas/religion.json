@@ -1,0 +1,11 @@
+{
+    "allowed": [
+      "descripcion",
+      "estado",
+      "userIdCreatedAt"
+    ],
+    "required": {
+      "descripcion": "descripcion",
+      "userIdCreatedAt": "id de usuario"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+	"allowed": ["userIDAsignador", "idCampania", "cedula", "email", "pJerarquiasID","userIDPadre"],
+	"required": {
+		"userIDAsignador": "userIDAsignador",
+		"idCampania": "idCampania",
+		"cedula": "cedula",
+		"email": "email",
+		"userIDPadre": "userIDPadre"
+	}
+}

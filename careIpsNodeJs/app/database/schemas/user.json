@@ -1,0 +1,36 @@
+{
+	"allowed": [
+		"primerNombre",
+		"apellidoCasado",
+		"apellidoMaterno",
+		"apellidoPaterno",
+		"cedula",
+		"email",
+		"idCampania",
+		"mobile",
+		"pJerarquiasID",
+		"segundoNombre",
+		"userIDAsignador",
+		"userIDPadre",
+		"usrPassword",
+		"usrTerminosCondiciones",
+		"token"
+	],
+	"required": {
+		"primerNombre": "primerNombre",
+		"apellidoPaterno": "apellidoPaterno",
+		"cedula": "cedula",
+		"email": "email",
+		"idCampania": "idCampania",
+		"mobile": "mobile",
+		"pJerarquiasID": "pJerarquiasID",
+		"userIDAsignador": "userIDAsignador",
+		"userIDPadre": "userIDPadre",
+		"usrPassword": "usrPassword",
+		"usrTerminosCondiciones": "usrTerminosCondiciones",
+		"token": "token"
+	},
+	"params": {
+		"id": "/^([0-9])*$/"
+	}
+}
